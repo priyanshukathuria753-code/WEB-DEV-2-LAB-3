@@ -1,4 +1,4 @@
-# Inventory and Data Management System
+
 Node.js + Express + MongoDB (Mongoose) + dotenv
 
 ## Setup
@@ -32,3 +32,15 @@ Node.js + Express + MongoDB (Mongoose) + dotenv
 { "name": "Gel Pen Pack of 15", "sku": "STNY-PN-713", "category": "Stationery",
   "price": 120, "quantity": 40, "reorderLevel": 20, "supplier": "Cello Pens" }
 ```
+
+<img width="1433" height="957" alt="Screenshot 2026-11-18 120857" src="https://github.com/user-attachments/assets/d896bab8-1e56-4013-b129-42e1a6ebf413" />
+<img width="1442" height="958" alt="Screenshot 2026-11-18 121743" src="https://github.com/user-attachments/assets/f71f6fdb-6dca-487b-be80-f39d11784dd7" />
+
+<img width="1445" height="962" alt="Screenshot 2026-11-18 122957" src="https://github.com/user-attachments/assets/16e66a69-78c3-4aec-beee-351c4e149165" />
+
+<img width="1422" height="941" alt="Screenshot 2026-11-18 122123" src="https://github.com/user-attachments/assets/15d2e32c-23e7-4c95-9c1a-1bbd3b325b1d" />
+<img width="1448" height="922" alt="Screenshot 2026-11-18 122148" src="https://github.com/user-attachments/assets/9d91926f-13e0-45ad-92d9-666a2931f14f" />
+<img width="1407" height="953" alt="Screenshot 2026-11-18 122220" src="https://github.com/user-attachments/assets/7decd620-9e3a-43dc-9d37-261e2d5e28a0" />
+<img width="1447" height="990" alt="Screenshot 2026-11-18 122244" src="https://github.com/user-attachments/assets/dd35097a-2a64-4627-824e-99b21a77145c" />
+
+
